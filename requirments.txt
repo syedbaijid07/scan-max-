@@ -1,0 +1,5 @@
+# This script uses standard Python libraries (os, sys).
+# No external Python packages are required.
+
+# System Requirements:
+# Nmap must be installed on your OS.
