@@ -18,10 +18,12 @@ When you're doing a CTF or a real penetration test, you need to try different th
 ## How to setup
 Make sure you have Nmap installed on your Linux.
 1. Download the script:
-   `git clone `
+   `git clone https://github.com/syedbaijid07/scan-max-.git `
 2. Go to the folder:
    `cd Scan-Max`
 3. Run it:
+    ` chmod +x scan-max.py `
+4. 
    `sudo python3 scan-max.py`
 
 ## Warning (Disclaimer)
